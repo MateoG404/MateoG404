@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently working at Mercado Libre as Software Backend Developer
+- 🌱 I’m currently working at Mercado Libre as a Software Backend Developer
 
 - 👯 I’m looking to collaborate on **Data Science and Machine Learning projects**
 
