@@ -3,11 +3,11 @@
 
 
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 I’m currently working at Mercado Libre as Software Backend Developer
 
 - 👯 I’m looking to collaborate on **Data Science and Machine Learning projects**
 
-- 💬 Ask me about **Python, Pandas, SQL and Machine Learning**
+- 💬 Ask me about **Python, Go, SQL and Machine Learning**
 
 - 📫 How to reach me **https://www.linkedin.com/in/mateo-guti%C3%A9rrez-melo-389996209**
 
