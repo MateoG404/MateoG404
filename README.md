@@ -5,6 +5,8 @@
 
 - 🌱 Software Developer at Mercado Libre, focused on large-scale optimization, event-driven architecture, and fintech. Passionate about leveraging AI to transform data into innovative solutions.
 
+- 🌱 AI Leader at TuringBox research incubator group (a Google Students Group), technology enthusiast, and organizer of tech events.
+
 - 👯 I’m looking to collaborate on **Data Science and Machine Learning projects**
 
 - 💬 Ask me about **Python, Go, SQL and Machine Learning**
