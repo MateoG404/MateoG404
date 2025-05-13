@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently working at Mercado Libre as a Software Backend Developer
+- 🌱 Software Developer at Mercado Libre, focused on large-scale optimization, event-driven architecture, and fintech. Passionate about leveraging AI to transform data into innovative solutions.
 
 - 👯 I’m looking to collaborate on **Data Science and Machine Learning projects**
 
